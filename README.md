@@ -18,6 +18,7 @@ A **fully custom inventory expansion script** that adds realistic storage mechan
 
 ### [Sentinel RP (Test Server)](https://discord.gg/WJhDWRDz5n)
 A **test environment** for experimenting with new mechanics, custom jobs, and optimized performance before full deployment.
+     [Test to see if you like a pre-build server]
 
 ## 🛠️ Tech Stack:
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)  
