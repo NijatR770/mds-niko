@@ -1,4 +1,4 @@
-# Hi, I'm Niko Lorenzo 👋
+# Hi, I'm Niko  👋
 
 ### 💻 FiveM Developer | Freelancer | Server Owner
 
