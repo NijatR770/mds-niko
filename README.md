@@ -13,7 +13,7 @@ I'm a passionate **FiveM developer** with experience in **custom scripting, serv
 - **Advanced Configurations for FiveM Scripts**
 
 ## 📂 Featured Projects:
-### [Custom FiveM Backpack Script](https://discord.gg/WJhDWRDz5n)
+### [Custom FiveM Backpack Script](https://github.com/NijatR770/niko-backpack)
 A **fully custom inventory expansion script** that adds realistic storage mechanics to your FiveM server. To access this, contact me on **Discord: bl1nkermode**.
 
 ### [Sentinel RP (Test Server)](https://discord.gg/WJhDWRDz5n)
