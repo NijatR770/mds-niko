@@ -16,7 +16,7 @@ I'm a passionate **FiveM developer** with experience in **custom scripting, serv
 ### [Custom FiveM Backpack Script](https://discord.gg/WJhDWRDz5n)
 A **fully custom inventory expansion script** that adds realistic storage mechanics to your FiveM server. To access this, contact me on **Discord: bl1nkermode**.
 
-### [Sentinel RP (Test Server)](https://github.com/your-repo-link)
+### [Sentinel RP (Test Server)](https://discord.gg/WJhDWRDz5n)
 A **test environment** for experimenting with new mechanics, custom jobs, and optimized performance before full deployment.
 
 ## 🛠️ Tech Stack:
@@ -26,7 +26,7 @@ A **test environment** for experimenting with new mechanics, custom jobs, and op
 ![HTML & CSS](https://img.shields.io/badge/HTML%2FCSS-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
 ## 📫 Connect with Me:
-- **Discord:** [bl1nkermode](https://discord.com/invite/yourserver)
+- **Discord:** [bl1nkermode](https://discord.gg/WJhDWRDz5n)
 - **Twitch:** [twitch.tv/ykn1ko](https://twitch.tv/ykn1ko)
 - **GitHub:** [github.com/mds-niko](https://github.com/mds-niko)
 
