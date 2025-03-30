@@ -1,14 +1,13 @@
-
-# Hi, I'm Niko  👋
+# Hi, I'm Niko Lorenzo 👋
 
 ### 💻 FiveM Developer | Freelancer | Server Owner
 
-I'm a passionate **FiveM developer** with experience in **custom scripting, server setup, and optimization**. I specialize in **QBCore** and **ESX**, creating unique scripts, enhancing gameplay mechanics, and building immersive roleplay environments. I'm really good with **QBCore framework** and **configuring scripts** to fit unique server needs.
+I'm a passionate **FiveM developer** with experience in **custom scripting, server setup, and optimization**. I specialize in **QBCore**, creating unique scripts, enhancing gameplay mechanics, and building immersive roleplay environments. I'm really good with **QBCore framework** and **configuring scripts** to fit unique server needs.
 
 ## 🚀 What I Do:
 - **Custom FiveM Scripts** (Lua, JS, SQL)
 - **Server Optimization & Setup**
-- **Resource & Framework Management (QBCore, ESX, Custom Frameworks)**
+- **Resource & Framework Management (QBCore, Custom Frameworks)**
 - **Bug Fixes & Performance Enhancements**
 - **UI/UX Enhancements for FiveM**
 - **Advanced Configurations for FiveM Scripts**
